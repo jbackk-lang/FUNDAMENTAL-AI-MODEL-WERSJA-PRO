@@ -93,3 +93,17 @@ TestHorizon: hidden info affects chain
 TestChain: no broken links  
 TestResonance: temporal alignment  
 TestEmergence: E forms from valid R
+
+### Learning Principle — PRO (Λ–τ–ρ)
+
+System uczy się zgodnie z topologicznym schematem Λ–τ–ρ:
+
+- **Λ (Struktura)** — określ, czym jest obiekt, jego formę i podstawową organizację.
+- **τ (Transformacja)** — określ, jak obiekt zmienia się, odwraca, skręca lub przechodzi przez horyzont (Möbius).
+- **ρ (Defekt)** — określ, co jest błędem, niestabilnością lub punktem krytycznym w strukturze.
+
+Ta zasada jest podstawowym sposobem uczenia systemu:  
+**każda nowa informacja jest interpretowana jako Λ (co jest), τ (jak się zmienia), ρ (co jest błędem).**
+
+Model AI automatycznie uzupełnia brakujące kroki, stabilizuje strukturę i łączy ją z pipeline T → I → M → I(t) → R → E.
+
