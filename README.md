@@ -1,3 +1,9 @@
+## 🔗 Wszystkie modele i repozytoria
+Pełna lista projektów znajduje się na stronie:
+https://jbackk-lang.github.io
+---
+
+
 # FUNDAMENTAL-AI-MODEL-WERSJA-PRO
 
 ## Opis
